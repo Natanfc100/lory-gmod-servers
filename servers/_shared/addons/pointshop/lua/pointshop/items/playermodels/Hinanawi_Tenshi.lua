@@ -1,3 +1,3 @@
-ITEM.Name = "Hinanawi Tenshi"
+ITEM.Name = "Hinanawi_Tenshi"
 ITEM.Price = 20000
 ITEM.Model = "models/Tenshi/Tenshi_pm.mdl"
