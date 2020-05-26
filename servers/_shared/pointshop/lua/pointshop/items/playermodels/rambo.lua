@@ -1,3 +1,3 @@
 ITEM.Name = "Rambo"
-ITEM.Price = 10000
+ITEM.Price = 15000
 ITEM.Model = "models/models/konnie/rambo/rambo.mdl"
