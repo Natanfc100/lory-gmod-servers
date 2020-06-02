@@ -1,4 +1,4 @@
-local push_force = CreateConVar("push_force", 100, FCVAR_NONE, "Push force", 1, 99999)
+local push_force = CreateConVar("push_force", 150, FCVAR_NONE, "Push force", 1, 99999)
 
 local possible_sounds = {
     "physics/body/body_medium_impact_hard1.wav",
